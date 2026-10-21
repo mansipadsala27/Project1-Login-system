@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "name": "Mansi Padsala",
+      "email": "padsalamanu@gmail.com",
+      "role": "admin",
+      "password": "1234",
+      "id": "1ROIseACpkc"
+    },
+    {
+      "name": "dhvani",
+      "email": "dhvani@gmail.com",
+      "role": "user",
+      "password": "1234",
+      "id": "MJ_KI9vgO9c"
+    },
+    {
+      "name": "hensi",
+      "email": "hensi@gmail.com",
+      "role": "user",
+      "password": "1234",
+      "id": "K78MwsvAZis"
+    },
+    {
+      "name": "krisha ",
+      "email": "krisha@gmail.com",
+      "role": "user",
+      "password": "1234",
+      "id": "hUbLQrTJzzo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
